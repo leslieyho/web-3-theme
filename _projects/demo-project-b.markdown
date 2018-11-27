@@ -10,3 +10,10 @@ image:
 ---
 
 An ocean is a body of saline water that composes much of a planet's hydrosphere. On Earth, an ocean is one of the major conventional divisions of the World Ocean. These are, in descending order by area, the Pacific, Atlantic, Indian, Southern, and Arctic Oceans.
+
+<div class="gallery" data-columns="4">
+<img src="/images/demo/demo-portrait.jpg">
+<img src="/images/demo/demo-landscape.jpg">
+<img src="/images/demo/demo-square.jpg">
+<img src="/images/demo/demo-landscape-2.jpg">
+</div>
